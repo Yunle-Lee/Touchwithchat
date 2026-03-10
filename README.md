@@ -1,6 +1,6 @@
-# AIDeskControl - PixelArt GUI 桌面 AI 助手
+![AIDeskControl Logo](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/kk.png)
 
-![AIDeskControl Logo](path_to_logo.png)
+# AIDeskControl - PixelArt GUI 桌面 AI 助手
 
 **AIDeskControl** 是一个基于 **Python + Tkinter + DeepSeek API** 的桌面 AI 助手，提供可视化 PixelArt 风格的操作界面。它可以解析自然语言指令，实现文件夹、程序、网页的打开/关闭，同时支持 AI 聊天和图片显示功能。
 
